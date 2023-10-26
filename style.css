@@ -1,0 +1,41 @@
+#app {
+  font-family: Avenir, Helvetica, Arial, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  text-align: center;
+  color: #2c3e50;
+  margin-top: 60px;
+  text-align: center;
+}
+
+p {
+  margin: 0 auto;
+}
+
+a {
+  color: #6acb15;
+  text-decoration: none;
+}
+
+a:visited {
+  color: #6acb15;
+  text-decoration: none;
+}
+
+button {
+  margin: 10px auto;
+  display: block;
+  width: 165px;
+  height: 35px;
+  padding: 10px;
+  border: 0;
+  border-radius: 30px;
+  font-size: larger;
+  background-color: #cfffaf;
+  color: #5b5b5b;
+}
+
+button:hover {
+  background-color: #aeff79;
+  color: #414141;
+}
